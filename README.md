@@ -106,3 +106,5 @@ Add the following optional query parameters to add custom dimensions to your ima
 or run Mermrender in Gitpod, a free online dev environment for GitHub:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Schachte/Mermrender)
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/Schachte/Mermrender)
